@@ -1,5 +1,4 @@
-interface ButtonProps {
+export interface ButtonProps {
   title: string;
-  styles?: string; // optional
+  styles?: string; 
 }
-export default ButtonProps;
