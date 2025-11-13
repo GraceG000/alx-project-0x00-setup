@@ -10,6 +10,8 @@ const Landing: React.FC = () => {
                  <Button title="View" styles="rounded-sm ml-4 mr-4 bg-blue-500 py-3 px-8"/>
                  <Button title="Buy" styles="rounded-md mr-4 bg-cyan-500 py-3 px-8"/>
                  <Button title="Update" styles="rounded-full mr-4 bg-pink-500 py-3 px-8"/>
+
+                 <Button title="Sell" styles="rounded-lg mr-4 bg-yellow-500 py-3 px-8"/>
             </div>
             
         </div>
